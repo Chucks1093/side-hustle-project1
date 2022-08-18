@@ -1,0 +1,20 @@
+.footer {
+     margin-top: 1.5rem;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 10vh;
+     font-size: 1.6rem;
+     background-color: #5471c4;
+
+
+}
+
+span i {
+     display: block;
+     color: white;
+}
+
+.ri-twitter-fill {
+     margin: 0 5.5rem;
+}

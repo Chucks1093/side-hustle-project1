@@ -1,0 +1,40 @@
+.form {
+     /* height: 20rem; */
+     margin-top: 1.5rem;
+}
+
+h1 {
+     text-align: center;
+     color: rgb(68, 68, 68);
+
+}
+
+form {
+     display: flex;
+     flex-direction: column;
+     margin: 1.5rem auto 0;
+     width: 45%;
+     min-width: 18rem;
+}
+
+
+input {
+     height: 2rem;
+}
+
+input, textarea {
+     margin-bottom: 1rem;
+     border-radius: .2rem;
+     text-indent: .8rem;
+}
+
+.submit-btn {
+     margin: 0;
+     cursor: pointer;
+     width: 8rem;
+     height: 2rem;
+     background-color: #5471c4;
+     font-weight: bold;
+     color: white;
+     border: none;
+}

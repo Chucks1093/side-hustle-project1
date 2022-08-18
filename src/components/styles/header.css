@@ -1,0 +1,35 @@
+.header{
+     height: 10vh;
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+     padding: .5rem 1rem;
+     position: absolute;
+     top: 0;
+     left: 0;
+
+}
+
+.logo{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100%;
+}
+
+img {
+     height: 100%;
+     object-fit: cover;
+     display: block;
+}
+
+.head-info {
+     width: 40%;
+     min-width: 17rem;
+     height: 100%;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     color: wheat;
+     font-weight: 500;
+}
