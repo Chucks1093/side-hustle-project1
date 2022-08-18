@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b518534b.css",
+    "main.js": "/static/js/main.5a9a53d9.js",
+    "static/media/chris-ried-ieic5Tq8YMk-unsplash_transcpr.jpg": "/static/media/chris-ried-ieic5Tq8YMk-unsplash_transcpr.71ae37c4b088a5f1dc7c.jpg",
+    "index.html": "/index.html",
+    "main.b518534b.css.map": "/static/css/main.b518534b.css.map",
+    "main.5a9a53d9.js.map": "/static/js/main.5a9a53d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b518534b.css",
+    "static/js/main.5a9a53d9.js"
+  ]
+}
